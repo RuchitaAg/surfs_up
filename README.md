@@ -2,7 +2,14 @@
 
 ## Overview of the analysis
 
+### Objectives
+
 The purpose of this analysis is to review a dataset pertaining to weather conditions that has been stored in a SQLite database to provide information that will convince an investor that opening up a Surf n' Shake shop in Oahu, Hawaii is a good business idea. This analysis is focusing on comparing different statistics between weather data in June and December months to choose the most suitable month, by considering the weather data to establish the profitability of a surf and ice cream shop..
+
+### Dependencies
+
+SQLite- Automap and Baseengine functions and SQLAlchemy 
+Jupyter Notebook to import dependencies and create the commands to pull the data from the SQLite database
 
 ## Results
 
